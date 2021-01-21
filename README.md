@@ -1,0 +1,2 @@
+# parserEasy
+Journal parser
